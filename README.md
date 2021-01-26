@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Framer Motion 2 - Drag and sort 2D
+
+This code is based off of the example from Framer Motion 2 here: https://codesandbox.io/s/framer-motion-2-drag-to-reorder-fc4rt
+
+I've updated it to allow drag-sort on a 2-dimensional plane. Perfect if your items will wrap on overflow, but you still want to drag and sort them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
