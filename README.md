@@ -4,6 +4,8 @@ This code is based off of the example from Framer Motion 2 here: https://codesan
 
 I've updated it to allow drag-sort on a 2-dimensional plane. Perfect if your items will wrap on overflow, but you still want to drag and sort them.
 
+![](drag-to-sort-2d.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
